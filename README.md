@@ -7,11 +7,14 @@ I am a Fullstack web developer that recently graduated from the University of Wa
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bram-G&theme=tokyonight)](https://github.com/Bram-G/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bram-G&layout=compact&theme=tokyonight)](https://github.com/Bram-G/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bram-G&theme=tokyonight)](https://github.com/Bram-G/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Bram-Gibson-Portfolio)](https://github.com/Bram-G/Bram-Gibson-Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Board-Game-Party)](https://github.com/Bram-G/Board-Game-Party)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Bram-Gibson-Portfolio)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Board-Game-Party)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Video-Share)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=NoSQL-SocialNetworkAPI)
+
 
 
 <!--
