@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there!👋 My name is Bram Gibson,
+I am a Fullstack web developer that recently graduated from the University of Washington's coding bootcamp.
+
+- 🔭 I’m currently working on a freelance culinary focused social media platform with a small team.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bram-g/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bram-G&theme=tokyonight)](https://github.com/Bram-G/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bram-G&layout=compact&theme=tokyonight)](https://github.com/Bram-G/github-readme-stats)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Bram-Gibson-Portfolio)](https://github.com/Bram-G/Bram-Gibson-Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Board-Game-Party)](https://github.com/Bram-G/Board-Game-Party)
+
 
 <!--
 **Bram-G/Bram-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
