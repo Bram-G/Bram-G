@@ -2,6 +2,7 @@
 I am a Fullstack web developer that recently graduated from the University of Washington's coding bootcamp.
 
 - 🔭 I’m currently working on a freelance culinary focused social media platform with a small team.
+- 🌱 I’m currently learning Angular, AWS and Ruby
 - 💼 I'm currently looking for work as a Fullstack Developer
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bram-g/)
 
