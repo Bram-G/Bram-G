@@ -1,8 +1,8 @@
 ### Hi there!👋 My name is Bram Gibson,
 I am a Fullstack web developer that recently graduated from the University of Washington's coding bootcamp.
 
-- 🔭 I’m currently working on a freelance culinary focused social media platform with a small team.
-- 🌱 I’m currently learning Angular, and AWS
+- 🔭 I’m currently working on a fullstack, React based, board game application where users can find, search, and add new games to their existing collections
+- 🌱 I’m currently learning Angular, and AWS workflows
 - 💼 I'm currently looking for work as a Fullstack Developer
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bram-g/)
 
