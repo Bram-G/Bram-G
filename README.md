@@ -4,7 +4,9 @@ I am a Fullstack web developer that recently graduated from the University of Wa
 - 🔭 I’m currently working on a fullstack, React based, board game application where users can find, search, and add new games to their existing collections
 - 🌱 I’m currently learning Angular, and AWS workflows
 - 💼 I'm currently looking for work as a Fullstack Developer
+- ⚡ Check out my [Portfolio!](https://bramgibson.dev/)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bram-g/)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bram-G&theme=tokyonight)](https://github.com/Bram-G/github-readme-stats)
 
