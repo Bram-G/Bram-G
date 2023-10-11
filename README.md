@@ -1,8 +1,8 @@
 ### Hi there!👋 My name is Bram Gibson,
 I am a Fullstack web developer that recently graduated from the University of Washington's coding bootcamp.
 
-- 🔭 I’m currently working on a fullstack, React based, board game application where users can find, search, and add new games to their existing collections
-- 🌱 I’m currently learning Angular, and AWS workflows
+- 🔭 I’m currently working on a fullstack, React based, professional social media platform for Chefs and caterers.
+- 🌱 I’m currently learning Typescript, GraphQL, AWS
 - 💼 I'm currently looking for work as a Fullstack Developer
 - ⚡ Check out my [Portfolio!](https://bramgibson.dev/)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bram-g/)
@@ -15,9 +15,9 @@ I am a Fullstack web developer that recently graduated from the University of Wa
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Bram-Gibson-Portfolio)](https://github.com/Bram-G/Bram-Gibson-Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Board-Game-Party)](https://github.com/Bram-G/Board-Game-Party)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Board-Game-Party)](https://github.com/Bram-G/BGB)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=Video-Share)](https://github.com/Bram-G/Video-Share)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=NoSQL-SocialNetworkAPI)](https://github.com/Bram-G/NoSQL-SocialNetworkAPI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Bram-G&theme=tokyonight&repo=NoSQL-SocialNetworkAPI)](https://github.com/Bram-G/BerXy-ECommerce)
 
 
 
