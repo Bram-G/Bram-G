@@ -1,9 +1,9 @@
 ### Hi there!👋 My name is Bram Gibson,
-I am a Fullstack web developer that recently graduated from the University of Washington's coding bootcamp.
+I am currently a Technical Support Engineer that is in the process of growing my skillset as a Fullstack web developer. I recently graduated from the University of Washington's coding bootcamp and currently work for Pushpay. I love learning new skills and expanding my tool kit!
 
-- 🔭 I’m currently working on a fullstack, React based, professional social media platform for Chefs and caterers.
-- 🌱 I’m currently learning Typescript, GraphQL, AWS
-- 💼 I'm currently looking for work as a Fullstack Developer
+- 🔭 I’m currently working on a fullstack, React/Next.js based, social cataloguing service with a focus on data visualization.
+- 🌱 I’m currently learning AWS workflows, GraphQL, and Tableau 
+- 💼 I'm currently looking for experience in Fullstack Development / Cyber Security / Dev Ops
 - ⚡ Check out my [Portfolio!](https://bramgibson.dev/)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bram-g/)
 
